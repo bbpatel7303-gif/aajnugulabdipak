@@ -1,0 +1,6 @@
+{
+  "name": "વાંઝિયાઆંબા પ્રાથમિક શાળા - આજનું ગુલાબ અને આજનો દીપક કાર્ડ",
+  "description": "વાંઝિયાઆંબા પ્રાથમિક શાળા માટે 'આજનું ગુલાબ' અને 'આજનો દીપક' રંગીન ડિજિટલ પ્રદર્શન કાર્ડ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
